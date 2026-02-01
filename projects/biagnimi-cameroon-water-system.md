@@ -31,3 +31,8 @@ Cameroon experiences a harsh climate with pronounced wet and dry seasons, which 
 The project site is remote, with limited access to major transportation infrastructure. The closest major international airport is Douala International Airport (DLA), located in Douala, Cameroon’s largest city and primary commercial hub. Bafoussam Airport (BFX) also serves the broader region. From these hubs, travel to Biagnimi requires additional overland transportation, increasing logistical complexity and cost.
 
 A key design consideration involves the placement and protection of solar panels required for system operation. Potential risks include wildlife interference, accidental damage, and theft or vandalism. As a result, fencing, secure mounting, and community oversight are being evaluated as part of the system design to ensure long-term functionality and sustainability.
+## 2. Problem Statement
+
+The community of Biagnimi lacks reliable, year-round access to safe potable water. Existing water sources are located several miles from the village and are seasonal in nature, with primary wells drying up for significant portions of the year. As a result, residents—particularly women and children—must travel long distances to collect water, often from sources that may be unsafe.
+
+The absence of a dependable local water supply presents ongoing health risks, safety concerns, and social burdens for the community. The objective of this project is to design and implement a sustainable deep well water supply and distribution system that provides consistent, accessible, and potable water to households within Biagnimi.
